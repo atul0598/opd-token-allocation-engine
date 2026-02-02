@@ -142,9 +142,7 @@ H2 Console → http://localhost:8080/h2-console
 
 ## Project Documentation
 
-Detailed system design, allocation logic, edge cases, and trade-offs are available here:
-
- [Download Full Project Documentation (PDF)](docs/OPD_Token_Allocation_Engine_Documentation.pdf)
+Detailed system design, allocation logic, edge cases, and trade-offs are available in doc folder
 
 
 
